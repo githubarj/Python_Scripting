@@ -22,7 +22,7 @@ If not kindly refer to the [Python Documentation](https://www.python.org/downloa
 - requests
 
 ```
-pip install requests beautifulsoup4 pandas
+pip install requests beautifulsoup4 pandas openpyxl
 ```
 install any more required depenencies.  
 
@@ -38,7 +38,11 @@ Make sure you are in the right directory.
 cd Python_Scripting
 ```
 
-Run the script and the excel filewill be saved in that same directory.  
+Run the script and the excel file will be saved in that same directory.  
 ```
 python pythonScripting
+```
+or if you are using the terminal for wsl2 in vscode use : 
+```
+python3 pythonScripting
 ```
