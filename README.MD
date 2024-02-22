@@ -42,8 +42,3 @@ Run the script and the excel filewill be saved in that same directory.
 ```
 python pythonScripting
 ```
-
-
-
-
-
